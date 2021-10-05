@@ -1,13 +1,7 @@
-## Hello My name is Abe👋
+## ¿Qué bola? ![image](https://user-images.githubusercontent.com/74512335/135941465-33c1e6d8-4ee8-4622-96ae-3b3e5cd6887a.png)  Slang for Whats up?  My name is Abe 👋 
 <!--
 ### About Me
 add shields for how to contact me and tech stack
-
-
-
-
-
-
 
 __________________________________
 <!--
@@ -24,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+                                                                                                                        
+
+
+   ![Picture1 - Copy](https://user-images.githubusercontent.com/74512335/135940312-2a500e35-8418-426b-bb54-7e9ac88b30d0.jpg)
+
+
+
