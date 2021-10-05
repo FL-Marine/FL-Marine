@@ -22,7 +22,4 @@ Here are some ideas to get you started:
                                                                                                                         
 
 
-   ![Picture1 - Copy](https://user-images.githubusercontent.com/74512335/135940312-2a500e35-8418-426b-bb54-7e9ac88b30d0.jpg)
-
-
-
+![Picture1 - Copy](https://user-images.githubusercontent.com/74512335/135945572-f5b27c7b-56c6-44a5-9d17-8d183304d1eb.jpg)
