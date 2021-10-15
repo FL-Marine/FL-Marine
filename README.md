@@ -19,21 +19,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/FL_Marine_Abe?style=social)
 
 
+	
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FL_Marine_Abe)
 
 
-                                                                                                                        
-
+                                                                                                                       
 
 ![Picture1 - Copy](https://user-images.githubusercontent.com/74512335/135945572-f5b27c7b-56c6-44a5-9d17-8d183304d1eb.jpg)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-[![Instagram](https://img.shields.io/badge/@__abruhham__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__abruhham__/)
+![Gmail](https://img.shields.io/badge/abe.diaz305@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__abruhham__/)
+
+
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FL-Marine&show_icons=true&theme=vue) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FL-Marine&layout=compact)](https://github.com/FL_Marine/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
