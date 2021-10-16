@@ -1,23 +1,16 @@
 ## ¿Qué bola? ![image](https://user-images.githubusercontent.com/74512335/135941465-33c1e6d8-4ee8-4622-96ae-3b3e5cd6887a.png)  Slang for Whats up?  My name is Abe 👋 
-<!--
+
+![Picture1 - Copy](https://user-images.githubusercontent.com/74512335/135945572-f5b27c7b-56c6-44a5-9d17-8d183304d1eb.jpg)
 ### About Me
-add shields for how to contact me and tech stack
 
-__________________________________
-<!--
-**FL-Marine/FL-Marine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... </a>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
 
 
 
@@ -28,7 +21,7 @@ Here are some ideas to get you started:
 
                                                                                                                        
 
-![Picture1 - Copy](https://user-images.githubusercontent.com/74512335/135945572-f5b27c7b-56c6-44a5-9d17-8d183304d1eb.jpg)
+
 
 ![Gmail](https://img.shields.io/badge/abe.diaz305@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -47,13 +40,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FL-Marine&layout=compact)](https://github.com/FL_Marine/github-readme-stats)
 
-
-
-
-
-
-
-
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
