@@ -19,8 +19,9 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### ⚡ Fun fact:
-I am actively participating in Muay Thai & 🥊 & BJJ 🥋 (White Belt) x4 a week.
-![bjj   muay thai](https://user-images.githubusercontent.com/74512335/137566744-40400cad-53c3-4075-ae97-eb41aff720b2.jpg)
+I am actively participating in Muay Thai & 🥊 & BJJ 🥋 (Green Belt) x4 a week.
+![bjj   muay thai]![file](https://user-images.githubusercontent.com/74512335/144820266-e5755262-4ae5-40fa-a211-39567d04ecea.jpeg)
+
 ____________________________________________________________________________________________________________________________________________________
 
 <p align="center">
