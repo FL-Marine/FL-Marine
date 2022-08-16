@@ -25,7 +25,7 @@ I am actively participating in Muay Thai & 🥊 & BJJ 🥋 (Green Belt) x4 a wee
 ____________________________________________________________________________________________________________________________________________________
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FL-Marine&show_icons=true&theme=nord" width="48%"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL-Marine&langs_count=4" width="46%"></img> 
+<img src="https://github-readme-stats.vercel.app/api?username=FL-Marine&show_icons=true&theme=nord" width="48%"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL-Marine&langs_count=5" width="46%"></img> 
 </p>
 
 
